@@ -3,3 +3,6 @@ djangorestframework
 django-cors-headers
 django-filter
 celery
+django-celery-results
+django-celery-results
+redis
